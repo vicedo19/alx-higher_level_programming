@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-"""function"""
-
+"""
+This is the "0-add_integer" module.
+The 0-add_integer module supplies one function, add_integer(a, b).
+"""
 
 def add_integer(a, b=98):
-    """adding function"""
+    """Return the addition of two numbers."""
 
     values = []
     for x in (a, b):
