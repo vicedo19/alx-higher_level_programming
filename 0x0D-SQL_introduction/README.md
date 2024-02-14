@@ -1,1 +1,1 @@
-Intro to SQL
+Introduction to MySQL, and SQL Queries
