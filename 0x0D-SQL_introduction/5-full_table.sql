@@ -1,2 +1,2 @@
--- Prints the full description of the table first_table.
+-- Prints the full description of the table first_table without using DESCRIBE or EXPLAIN.
 SHOW CREATE TABLE `first_table`;
